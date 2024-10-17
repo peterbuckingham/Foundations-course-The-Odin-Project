@@ -1,0 +1,29 @@
+.page-0 {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    margin: 15px;
+}
+
+li, a {
+    color: rgb(255, 255, 255);
+}
+
+li, img {
+    margin: 15px;
+    justify-content: center;
+}
+
+ol {
+    display: flex;
+    background-color: rgb(2, 255, 175);
+    padding: 5px 5px 5px 5px;
+    width: 43%;
+}
+
+
+/* Chicken Parmesan Page Styling */

@@ -1,0 +1,1 @@
+A simple project for how Descendant combinator work.

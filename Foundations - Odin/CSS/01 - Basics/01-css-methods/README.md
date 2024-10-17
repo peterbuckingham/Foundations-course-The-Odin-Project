@@ -1,0 +1,1 @@
+A Basic project showcasing the three css methods someone can use to apply css to their HTML document.
