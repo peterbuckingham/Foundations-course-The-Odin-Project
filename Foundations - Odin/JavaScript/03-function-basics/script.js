@@ -17,3 +17,10 @@ let capitalize = function(string) {
 }
 console.log(capitalize('HELLO WORLD')) // returns 'Hello world'
 console.log(capitalize('hello world')) // returns 'Hello world'
+
+
+function lastletter(string) {
+    return string.slice(-1);
+}
+
+console.log(lastletter("Peter Buckingham"));
